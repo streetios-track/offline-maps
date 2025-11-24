@@ -3,7 +3,7 @@
     "id": "bosnia-small",
     "name": "Bosnia and Herzegovina",
     "size_mb": 1,
-    "url": "https://example.com/maps/bosnia.mbtiles"
+    "url": "https://github.com/streetios-track/offline-maps/releases/download/v1/bosnia-herzegovina.mbtiles"
   },
   {
     "id": "croatia-small",
