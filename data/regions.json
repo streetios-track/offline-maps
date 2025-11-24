@@ -1,13 +1,13 @@
 [
   {
     "id": "bosnia-small",
-    "name": "Bosnia Test Region",
+    "name": "Bosnia and Herzegovina",
     "size_mb": 1,
     "url": "https://example.com/maps/bosnia.mbtiles"
   },
   {
     "id": "croatia-small",
-    "name": "Croatia Test Region",
+    "name": "Croatia",
     "size_mb": 1,
     "url": "https://example.com/maps/croatia.mbtiles"
   }
